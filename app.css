@@ -1488,9 +1488,9 @@ body {
 
     .controls-open #controls, .controls-close #controls {
       right: 0px; } }
-  @media screen and (min-width: 1300px) {
-    #universe {
-      font-size: 100%; } }
-  @media screen and (min-width: 1600px) {
-    .zoom-close .scale-d #solar-system {
-      margin-left: -120%; } }
+      @media screen and (min-width: 1300px) {
+        #universe {
+          font-size: 100%; } }
+      @media screen and (min-width: 1600px) {
+        .zoom-close .scale-d #solar-system {
+          margin-left: -120%; } }
